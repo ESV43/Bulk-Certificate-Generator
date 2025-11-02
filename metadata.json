@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Certificate Generator",
+  "description": "An application to generate bulk certificates or ID cards by merging a template (PDF/Image) with data from a CSV file. Users can visually place and name data fields on the template.",
+  "requestFramePermissions": []
+}
